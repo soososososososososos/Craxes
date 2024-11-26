@@ -1,8 +1,3 @@
--- //Lock important\\
-local V3 = Vector3.new
-local V2 = Vector2.new
-local inf = math.huge
-
 getgenv().Settings = {
     ["WhyIsSheLookingAtMe"] = {
         ["Enabled"] = false,
